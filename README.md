@@ -1,1 +1,1 @@
-# Clustering-des-donnees-geographiques-dans-Python
+En tant que Data Scientist pour une structure gouvernementale, vous disposez des données sur les emplacements de stations de taxis tout le pays. Votre mission est de définir des clusters de ces taxis où l'Etat pourra construire des stations-service pour tous les taxis opérant dans un même cluster.
